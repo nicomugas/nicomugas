@@ -30,5 +30,10 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ![skills](https://user-images.githubusercontent.com/97762358/192671143-27f1ca55-6c23-4238-955b-31c141893646.gif)
 
+Contacto: 
+https://www.linkedin.com/in/nico-mugas-ok/
+
+nicomugas@gmail.com
+
 
 ⭐️ From [Nico Mugas](https://github.com/nicomugas)
